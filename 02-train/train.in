@@ -1,0 +1,18 @@
+TRAININGSET TiO2.train
+TESTPERCENT 10
+ITERATIONS  100
+
+! TIMING
+! SAVE_ENERGIES
+
+METHOD
+bfgs
+
+REGULARIZATION
+l2=0.0001d0
+
+NETWORKS
+! atom   network         hidden
+! types  file-name       layers  nodes:activation
+  Ti     Ti.5t-5t.nn    2    5:tanh  5:tanh
+  O      O.5t-5t.nn     2    5:tanh  5:tanh
