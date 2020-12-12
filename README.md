@@ -43,14 +43,16 @@ reference data set.  The resulting feature vectors are written to a
 - `O.fingerprint.stp` and `Ti.fingerprint.stp`: Descriptor definitions
   for the atomic species O and Ti.  For both species relatively small
   descriptor sizes with a radial expansion order of 16 and an angular
-  order of 4 are used.
+  order of 4 are used for set001 and set002.  Another set (set003) uses
+  different order of expansions: radial 22 and angular 6.
 
 02-train
 --------
 
 Training examples using the *training set* files generated in the
 previous step (not included because of the file size).  The results of
-two training runs are shown in the subdirectories `set001` and `set002`.
+three training runs with different neural network sizes are shown in the 
+subdirectories `set001`, `set002`, and `set003`.
 
 - `train.in`: Input file for `train.x`
 - `get-energies`: Subdirectory demonstrating how to write out the
@@ -75,9 +77,9 @@ subdirectory.
 04-aenetLib-ann-md
 ----------
 
-Usage of the trained ANN potentials with external solftware.
+Usage of the trained ANN potentials from `set003` with external solftware.
 Example for the Python (API) with the Atomistic Simulation Environment (ASE).
 See the ænet Google Colab notebook.
 
-- `O.15t-15t.nn` and `Ti.15t-15t.nn`: ANN potential files
+- `O.40t-40t.nn` and `Ti.40t-40t.nn`: ANN potential files
 
