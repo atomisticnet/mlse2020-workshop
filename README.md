@@ -12,6 +12,11 @@ https://drive.google.com/file/d/1Vy8MxVlkCQnVvpH5gPsmi6IpkxG-fssm/view?usp=shari
 
 Contact: Nong Artrith (nartrith@atomistic.net) and Alex Urban (aurban@atomistic.net)
 
+To learn more about ænet, sign up to the [Google Group](https://groups.google.com/forum/#!forum/aenet)
+so that you don’t miss any announcements (e.g., for new releases) and can reach
+a wider community with any questions/issues related to ænet.
+Once subscribed, you can also post by sending emails to aenet@googlegroups.com.
+
 ## Example of construction and application of ANN potentials
 
 This directory contains an example that showcases the **Chebyshev
