@@ -8,7 +8,7 @@ Tutorial Workshop: Machine Learning in Materials Science, Dec 13-15, 2020: https
 9:30 AM - 11:00 AM: Artificial Neural Network Potentials for Materials: Nongnuch Artrith, Columbia University
 
 The link to the ænet Google Colab notebook is:
-https://drive.google.com/file/d/1Vy8MxVlkCQnVvpH5gPsmi6IpkxG-fssm/view?usp=sharing
+https://colab.research.google.com/drive/1Uz3xulDPMoAEHj1RNPYdq-fAwBwId-aB?usp=sharing
 
 Contact: Nong Artrith (nartrith@atomistic.net) and Alex Urban (aurban@atomistic.net)
 
