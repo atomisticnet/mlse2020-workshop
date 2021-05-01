@@ -1,6 +1,12 @@
 # mlse2020-workshop 
 Tutorial Workshop: Machine Learning in Materials Science, Dec 13-15, 2020: https://www.eventbrite.com/e/tutorial-workshop-machine-learning-in-materials-science-tickets-128297271593
 
+
+See also: Strategies for the Construction of Neural-Network Based Machine-Learning Potentials (MLPs),
+Miksch, Morawietz, Kaestner, Urban, and Artrith, 
+Machine Learning: Science and Technology, **in press, (2021) DOI: https://doi.org/10.1088/2632-2153/abfd96** <br/>
+Contact: Nong Artrith (nartrith@atomistic.net)
+
 **SUNDAY, DECEMBER 13 – DATA FROM SIMULATION**
 
 9:00 AM - 9:30 AM: Overview: Machine Learning for Materials Science: Alexander Urban, Columbia University
