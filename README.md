@@ -3,8 +3,9 @@ Tutorial Workshop: Machine Learning in Materials Science, Dec 13-15, 2020: https
 
 
 See also: Strategies for the Construction of Neural-Network Based Machine-Learning Potentials (MLPs),
-Miksch, Morawietz, Kaestner, Urban, and Artrith, 
-Machine Learning: Science and Technology, **in press, (2021) DOI: https://doi.org/10.1088/2632-2153/abfd96** <br/>
+A.M. Miksch*, T. Morawietz, J. Kästner, A. Urban, N. Artrith*, 
+“Strategies for the Construction of Machine-Learning Potentials for Accurate and Efficient Atomic-Scale Simulations”, Mach. Learn.: Sci. Technol. 2 **(2021)** 031001. DOI: https://doi.org/10.1088/2632-2153/abfd96 <br/>
+Or https://github.com/atomisticnet/MLP-beginners-guide <br/>
 Contact: Nong Artrith (nartrith@atomistic.net)
 
 **SUNDAY, DECEMBER 13 – DATA FROM SIMULATION**
